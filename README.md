@@ -2,7 +2,7 @@
 ### Olá! 👋👋
 Me chamo Marlos e sou estudante de Ciência da Computação. Sou apaixonado pela tecnologia, teclados mecânicos e jogos, ainda em desenvolvimento nesse mundo dev posso dizer que também sou apaixonado por Java e Phyton!! ☕☕
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devMarlos&layout=demo&theme=dracula)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devMarlos&layout=compact&theme=radical)]
 
 ## Tecnologia que uso no meu dia a dia
 <div style="display: inline_block"><br/> 
