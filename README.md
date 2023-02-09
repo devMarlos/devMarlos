@@ -17,5 +17,4 @@ Me chamo Marlos e sou estudante de Ciência da Computação. Sou apaixonado pela
    <img aling="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
    <img aling="center" alt="C" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   
-  
 </div>
