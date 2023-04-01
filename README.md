@@ -4,7 +4,7 @@ Me chamo Marlos e sou estudante de Ciência da Computação. Apaixonado pela tec
 
 Atualmente atuo como estagiário em Testes de Android na Sidia um dos maiores institutos de P&D do Brasil. Já tive experiência com desenvolvimento web utilizando HTML, CSS, JS, PHP. Também tenho experiência por meio de estudos e projetos em outras áreas ou linguagens. 
 
-Meu foco nos dias atuais tem sido voltado para área de dispositvos móveis. Venho estudando e realizando projetos com Testes para mobiles, desenvolvimento mobile com Kotlin/Java e cada vesz mais me aprofundando nessa área. 
+Meu foco nos dias atuais tem sido voltado para área de dispositvos móveis. Venho estudando e realizando projetos com testes para mobiles, desenvolvimento mobile com Kotlin/Java e cada vez mais me aprofundando nessa área. 
 
 Compartilharei minha evolução e projetos aqui nesse GitHub!
 
