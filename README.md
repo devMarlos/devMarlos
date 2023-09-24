@@ -4,8 +4,6 @@ Me chamo Marlos e sou estudante de Ciência da Computação. Apaixonado pela tec
 
 Atualmente atuo como estagiário em Testes de Android no Sidia um dos maiores institutos de P&D do Brasil. Já tive experiência com desenvolvimento web utilizando HTML, CSS, JS, PHP. Também tenho experiência por meio de estudos e projetos em outras áreas ou linguagens. 
 
-Meu foco nos dias atuais tem sido voltado para área de dispositvos móveis. Venho estudando e realizando projetos com testes para mobiles, desenvolvimento mobile com Kotlin/Java e cada vez mais me aprofundando nessa área. 
-
 Compartilharei minha evolução e projetos aqui nesse GitHub!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devMarlos&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
