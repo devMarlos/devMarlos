@@ -1,10 +1,5 @@
 
-### Olá! 👋👋
-Me chamo Marlos e sou estudante de Ciência da Computação. Apaixonado pela tecnologia, teclados mecânicos e jogos, ainda em desenvolvimento nesse mundo dev posso dizer que também sou apaixonado por Java!! ☕☕
-
-Atualmente atuo como estagiário em Testes de Android no Sidia um dos maiores institutos de P&D do Brasil. Já tive experiência com desenvolvimento web utilizando HTML, CSS, JS, PHP. Também tenho experiência por meio de estudos e projetos em outras áreas ou linguagens. 
-
-Compartilharei minha evolução e projetos aqui nesse GitHub!
+apaixonado por tecnologia e ainda mais por back-end
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devMarlos&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
