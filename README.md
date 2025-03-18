@@ -2,8 +2,7 @@
 
 🚩 Morando em Manaus, Amazonas, Brasil.
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devMarlos&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -25,3 +24,4 @@
   <img aling= center alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </div>
 <hr>
+
